@@ -51,8 +51,8 @@ I'm a passionate and results-driven IT professional with over 12 years of academ
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [[Shreyas Srinivasa](#)](https://www.linkedin.com/in/shreyassrinivasa/)
-- Email: ssriniva@uab.edu
+- LinkedIn: [Shreyas Srinivasa](https://www.linkedin.com/in/shreyassrinivasa/)
+- Email: [ssriniva@uab.edu](mailto:ssriniva@uab.edu)
 
 ## 😄 Fun Fact
 
