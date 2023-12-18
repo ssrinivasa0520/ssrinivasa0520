@@ -10,17 +10,17 @@ I'm a passionate and results-driven IT professional with over 12 years of academ
 ## 🌱 What I'm Currently Learning
 
 - Advanced Cloud Computing techniques☁️ to enhance my skills.
-- Continuous improvement in geospatial mapping models and their applications in drone technologies.
+- Continuous improvement in geospatial mapping models and their applications in drone🛸 technologies.
 
 ## 👯 Looking to Collaborate On
 
-- Exciting projects related to data science, machine learning, and backend development.
+- Exciting projects related to data science🗃️, machine learning🤖, and backend development🏗️.
 - Open-source initiatives that align with my skills and interests.
 
 ## 🚀 Skills and Technologies
 
 ### Programming Languages
-- Python (10+ years)
+- Python (10+ years)<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg" alt="android" width="60" height="60"/></a></p> 
 - Java (8+ years)
 - C++ (5+ years)
 - JavaScript (7+ years)
