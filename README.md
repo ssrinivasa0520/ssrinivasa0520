@@ -5,7 +5,7 @@ I'm a passionate and results-driven IT professional with over 12 years of academ
 ## 🔭 What I'm Currently Working On
 
 - Exploring advanced machine learning techniques🤖 for enhanced medical diagnostics⚕️
-- Leveraging my expertise in backend development and Golang to contribute to open-source projects. <p align="left"><a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original-wordmark.svg" alt="android" width="60" height="60"/></a></p> 
+- Leveraging my expertise in backend development and Golang to contribute to open-source projects. <p align="left"><a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original-wordmark.svg" alt="go" width="60" height="60"/></a></p> 
 
 ## 🌱 What I'm Currently Learning
 
@@ -20,8 +20,8 @@ I'm a passionate and results-driven IT professional with over 12 years of academ
 ## 🚀 Skills and Technologies
 
 ### Programming Languages
-- Python (10+ years)<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg" alt="android" width="60" height="60"/></a></p> 
-- Java (8+ years)
+- Python (10+ years)<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/></a></p> 
+- Java (8+ years)<p align="left"><a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/></a></p>
 - C++ (5+ years)
 - JavaScript (7+ years)
 
