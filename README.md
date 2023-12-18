@@ -22,11 +22,11 @@ I'm a passionate and results-driven IT professional with over 12 years of academ
 ### Programming Languages
 - Python (10+ years)<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/></a></p> 
 - Java (8+ years)<p align="left"><a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/></a></p>
-- C++ (5+ years)
-- JavaScript (7+ years)
+- C++ (5+ years)<p align="left"><a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-line.svg" alt="C++" width="60" height="60"/></a></p> 
+- JavaScript (7+ years)<p align="left"><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/></a></p>
 
 ### Web Development
-- HTML, CSS, React.js, Node.js (6+ years)
+- HTML, CSS, React.js, Node.js (6+ years)<p align="left"><a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original-wordmark.svg" alt="HTML" width="60" height="60"/></a></p><p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original-wordmark.svg" alt="CSS" width="60" height="60"/></a></p><p align="left"><a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg" alt="ReactJS" width="60" height="60"/></a></p><p align="left"><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" alt="HTML" width="60" height="60"/></a></p>
 - Experience in building and customizing scalable websites.
 
 ### Data Science and Machine Learning
