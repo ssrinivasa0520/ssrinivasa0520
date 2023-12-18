@@ -6,7 +6,7 @@ I'm a passionate and results-driven IT professional with over 12 years of academ
 ## 🔭 What I'm Currently Working On
 
 - Exploring advanced machine learning techniques🤖 for enhanced medical diagnostics⚕️
-- Leveraging my expertise in backend development and Golang to contribute to open-source projects.![0_mBtqR-X_HZdGkPBg](https://github.com/ssrinivasa0520/ssrinivasa0520/assets/122620788/10bc7e72-f40e-4f28-91d7-7200e2d83dc2)
+- Leveraging my expertise in backend development and Golang to contribute to open-source projects.
 
 
 ## 🌱 What I'm Currently Learning
