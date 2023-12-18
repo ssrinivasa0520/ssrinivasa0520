@@ -6,7 +6,7 @@ I'm a passionate and results-driven IT professional with over 12 years of academ
 ## 🔭 What I'm Currently Working On
 
 - Exploring advanced machine learning techniques🤖 for enhanced medical diagnostics⚕️
-- Leveraging my expertise in backend development and Golang to contribute to open-source projects. <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/></a>
+- Leveraging my expertise in backend development and Golang to contribute to open-source projects. <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src = "https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/></a>
 
 
 ## 🌱 What I'm Currently Learning
