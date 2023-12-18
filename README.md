@@ -1,16 +1,62 @@
-### Hi there 👋
+```markdown
+# Hi there 👋, I'm Shreyas Srinivasa!
 
-<!--
-**ssrinivasa0520/ssrinivasa0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and results-driven IT professional with over 12 years of academic and industry experience. Currently pursuing a Bachelor's degree in Computer Science and Mathematics at the University of Alabama at Birmingham.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Exploring advanced machine learning techniques for enhanced medical diagnostics.
+- Leveraging my expertise in backend development and Golang to contribute to open-source projects.
+
+## 🌱 What I'm Currently Learning
+
+- Advanced Cloud Computing techniques to enhance my skills.
+- Continuous improvement in geospatial mapping models and their applications in drone technologies.
+
+## 👯 Looking to Collaborate On
+
+- Exciting projects related to data science, machine learning, and backend development.
+- Open-source initiatives that align with my skills and interests.
+
+## 🚀 Skills and Technologies
+
+### Programming Languages
+- Python (10+ years)
+- Java (8+ years)
+- C++ (5+ years)
+- JavaScript (7+ years)
+
+### Web Development
+- HTML, CSS, React.js, Node.js (6+ years)
+- Experience in building and customizing scalable websites.
+
+### Data Science and Machine Learning
+- Proficient in using Python for machine learning tasks.
+- Extensive experience with TensorFlow, PyTorch, and OpenAI Gym.
+- Expertise in implementing Q-learning and Deep Q Networks (DQN).
+
+### Cloud Computing
+- Worked with Kubernetes clusters on AWS, Azure, and GCP.
+- Knowledge of cloud computing platforms, including AWS, Azure & GCP.
+
+### Backend Development
+- Golang (5+ years)
+- Experience in migrating Java code to Golang for improved performance.
+
+### Database Management
+- IBM Certified Associate DBA - Db2 12 for z/OS Fundamentals.
+
+### Version Control
+- Git (GitHub/GitLab) for maintaining code quality and versioning.
+
+## 📫 How to Reach Me
+
+- LinkedIn: [Shreyas Srinivasa](#)
+- Email: [ssriniva@uab.edu](mailto:ssriniva@uab.edu)
+
+## 😄 Fun Fact
+
+I am fluent in multiple languages, not just programming ones! 🌍
+
+Let's connect and create something amazing together!
+```
