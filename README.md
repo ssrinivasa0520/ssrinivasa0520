@@ -1,3 +1,4 @@
+<p align="center">
 ```markdown
 # Hi there 👋, I'm Shreyas Srinivasa!
 
@@ -7,7 +8,7 @@ I'm a passionate and results-driven IT professional with over 12 years of academ
 
 - Exploring advanced machine learning techniques🤖 for enhanced medical diagnostics⚕️
 - Leveraging my expertise in backend development and Golang to contribute to open-source projects.
-<p align="left"> <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </p>
+<p align="left"> <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> </p></p>
 
 
 ## 🌱 What I'm Currently Learning
