@@ -1,4 +1,5 @@
 ```markdown
+<p align = "center">
 # Hi there 👋, I'm Shreyas Srinivasa!
 
 I'm a passionate and results-driven IT professional with over 12 years of academic and industry experience. Graduated with a Bachelor's degree in Computer Science and Mathematics from the University of Alabama at Birmingham.
@@ -61,4 +62,5 @@ I'm a passionate and results-driven IT professional with over 12 years of academ
 I am fluent in multiple languages, not just programming ones! 🌍
 
 Let's connect and create something amazing together!
+<p>
 ```
