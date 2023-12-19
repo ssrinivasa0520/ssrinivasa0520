@@ -36,7 +36,7 @@ I'm a passionate and results-driven IT professional with many years of academic 
 - Applied Apache Hadoop and Spark for processing large datasets.<p align="left"><a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/996px-Hadoop_logo.svg.png?20130221043911" alt="Hadoop" width="90" height="60"/></a><a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" alt="Spark" width="90" height="60"/></a></p>
 
 ### Cloud Computing☁️
-- Worked with Kubernetes clusters on AWS, Azure, and GCP.
+- Worked with Kubernetes clusters on AWS, Azure, and GCP.<p align="left"><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="60" height="60"/></a></p>
 - Knowledge of cloud computing platforms, including AWS, Azure & GCP.
 
 ### Backend Development🏗️
