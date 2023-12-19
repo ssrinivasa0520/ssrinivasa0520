@@ -43,12 +43,12 @@ I'm a passionate and results-driven IT professional with many years of academic 
 - Golang
 - Experience in migrating Java code to Golang for improved performance.
 
-### Database Management
+### Database Management🧑‍💼
 - IBM Certified Associate DBA - Db2 12 for z/OS Fundamentals.
 - Proficient in SQL for relational databases.
 - Familiar with NoSQL databases, including MongoDB.
 
-### Version Control
+### Version Control🛂
 - Git (GitHub/GitLab) for maintaining code quality and versioning.
 
 ## 📫 How to Reach Me
