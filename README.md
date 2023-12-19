@@ -41,7 +41,7 @@ I'm a passionate and results-driven IT professional with many years of academic 
 
 ### Backend Development🏗️
 - Golang
-- Experience in migrating Java code to Golang for improved performance.
+- Experience in migrating Java code to Golang for improved performance.<p align="left"><a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original-wordmark.svg" alt="go" width="60" height="60"/></a><a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/></a></p> 
 
 ### Database Management🧑‍💼
 - IBM Certified Associate DBA - Db2 12 for z/OS Fundamentals.
