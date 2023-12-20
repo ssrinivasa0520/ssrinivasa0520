@@ -58,6 +58,6 @@ I'm a passionate and results-driven IT professional with many years of academic 
 
 ## 😄 Fun Fact
 
-I am fluent in multiple languages, not just programming ones! 🌍
+I am fluent in multiple languages🗣️, not just programming ones! 🌍
 
-Let's connect and create something amazing together!
+Let's connect and create something amazing together!🤝
