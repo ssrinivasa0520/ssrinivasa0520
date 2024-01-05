@@ -12,7 +12,7 @@ I'm a passionate and results-driven IT professional with many years of academic 
 - Advanced Cloud Computing techniques☁️ to enhance my skills.
 - Continuous improvement in geospatial mapping models and their applications in drone🛸 technologies.
 
-## 👯 Looking to Collaborate On
+## 👯 Looking to Partner On
 
 - Exciting projects related to data science🗃️, machine learning🤖, and backend development🏗️.
 - Open-source initiatives that align with my skills and interests.
@@ -55,7 +55,7 @@ I'm a passionate and results-driven IT professional with many years of academic 
 
 - LinkedIn: [Shreyas Srinivasa](https://www.linkedin.com/in/shreyassrinivasa/)
 - Email: [ssriniva@uab.edu](mailto:ssriniva@uab.edu)
-- Phone Number: [+1 (737)-295-9389](callto:7372959389)
+- Phone Number: <a href="tel:+1737-295-9389">+1 (737)-295-9389</a>
 
 ## 😄 Fun Fact
 
