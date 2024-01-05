@@ -55,7 +55,7 @@ I'm a passionate and results-driven IT professional with many years of academic 
 
 - LinkedIn: [Shreyas Srinivasa](https://www.linkedin.com/in/shreyassrinivasa/)
 - Email: [ssriniva@uab.edu](mailto:ssriniva@uab.edu)
-- Phone Number: [+1 (737)-295-9389](callto:+17372959389)
+- Phone Number: [+1 (737)-295-9389](callto:7372959389)
 
 ## 😄 Fun Fact
 
